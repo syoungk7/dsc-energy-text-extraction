@@ -1,0 +1,1380 @@
+5%
+
+4%
+
+3%
+
+2%
+
+1%
+
+0%
+
+-1%
+
+-2%
+
+-3%
+
+-4%
+
+-5%
+
+ 250
+
+ 200
+
+ 150
+
+9
+1
+0
+2
+
+s
+n
+o
+
+i
+l
+l
+i
+
+ 100
+
+m
+D
+S
+U
+
+ 50
+
+0.0
+
+ENERGY PROFILE
+
+Sri Lanka
+
+GDP per capita
+
+8.1.1 Real GDP growth rate
+
+7.3.1 Energy intensity
+
+COUNTRY INDICATORS AND SDGS
+
+7.1.1 Access to electricity (% population)
+7.1.2 Access to clean cooking (% population)
+7.2.1 Renewable energy (% TFEC)
+
+100%
+
+3.4%
+
+12.2
+
+ 14
+
+ 14
+
+ 13
+
+ 13
+
+ 12
+
+ 12
+
+ 11
+
+P
+P
+P
+7
+1
+0
+2
+
+s
+0
+0
+0
+D
+S
+U
+
+'
+
+P
+P
+P
+7
+1
+0
+2
+P
+D
+G
+D
+S
+U
+/
+J
+M
+
+1.9
+
+1.9
+
+1.8
+
+1.8
+
+1.7
+
+1.7
+
+1.6
+
+1.6
+
+1.7
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019 2020
+
+2015 2016 2017
+
+33%
+
+0%
+2018 2019 2020 2021
+
+7.a.1 Public flows to renewables
+
+7.b.1 Per capita renewable capacity
+
+11.6.2 Air particulate matter (PM2.5)
+
+n
+o
+s
+r
+e
+p
+/
+
+W
+
+ 140
+
+ 120
+
+ 100
+
+ 80
+
+ 60
+
+ 40
+
+ 20
+
+0.0
+
+1
+
+116.9
+
+)
+3
+
+m
+/
+m
+μ
+(
+
+.
+
+5
+2
+
+M
+P
+
+Urban
+
+Average
+
+Rural
+
+WHO safe
+
+25.5
+
+23.1
+
+23.0
+
+23.1
+
+23.9
+
+0.0
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019 2020
+
+2015 2016 2017 2018 2019 2020 2021
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019 2020
+
+TOTAL ENERGY SUPPLY (TES)
+
+Total Energy Supply (TES)
+Non-renewable (TJ)
+
+Renewable (TJ)
+
+Total (TJ)
+
+Renewable share (%)
+
+Growth in TES
+Non-renewable (%)
+
+Renewable (%)
+
+Total (%)
+
+Primary energy trade
+Imports (TJ)
+
+Exports (TJ)
+Net trade (TJ)
+
+Imports (% of supply)
+Exports (% of production)
+Energy self-sufficiency (%)
+
+2015
+ 251 405
+
+ 175 124
+
+ 426 529
+
+41
+
+2015-20
++2.0
+
+-7.2
+
+-1.8
+
+2015
+ 255 913
+
+ 8 455
+- 247 458
+
+60
+5
+41
+
+2020
+ 256 368
+
+ 162 464
+
+ 418 832
+
+39
+
+2019-20
+-7.7
+
+-9.8
+
+-8.5
+
+2020
+ 282 495
+
+ 7 327
+- 275 168
+
+67
+5
+38
+
+Total energy supply in 2020
+
+39%
+
+43%
+
+19%
+
+Oil
+
+Gas
+
+Nuclear
+
+Coal + others
+
+Renewables
+
+Renewable energy supply in 2020
+
+16%
+1%
+
+1%
+
+81%
+
+Hydro/marine
+
+Wind
+
+Solar
+
+Bioenergy
+
+Geothermal
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+J
+P
+(
+
+s
+e
+
+l
+
+u
+o
+
+j
+
+a
+t
+e
+P
+
+  250
+
+  200
+
+  150
+
+  100
+
+  50
+
+  0
+
+RENEWABLE ENERGY CONSUMPTION (TFEC)
+
+Renewable TFEC trend
+
+Renewable energy consumption in 2020
+
+Electricity
+
+Commercial heat
+
+Bioenergy
+
+Geothermal
+
+Solar direct
+
+198
+
+186
+
+193
+
+196
+
+200
+
+183
+
+17%
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Consumption by sector
+Industry (TJ)
+Transport (TJ)
+Households (TJ)
+
+Other (TJ)
+
+2015
+ 64 210
+  0
+ 105 517
+
+ 28 551
+
+2020
+ 74 690
+  0
+ 78 410
+
+ 29 901
+
+83%
+
+16%
+
+43%
+
+41%
+
+n.a.
+
+Industry
+
+Transport
+
+Households
+
+Other
+
+Installed capacity trend
+
+Renewable capacity in 2022
+
+ELECTRICITY CAPACITY
+
+Nuclear
+Wind
+Geothermal
+
+4.5
+
+4.2
+
+Non-renewable
+Fossil fuels
+Renewable
+Hydro/marine
+   Hydro/marine
+Bioenergy
+   Solar
+  6
+   Wind
+   Bioenergy
+   Geothermal
+  5
+Total
+
+)
+
+  4
+
+4.0
+
+4.0
+
+4.1
+Capacity change (%)
+W
+Non-renewable
+G
+(
+Renewable
+s
+  3
+t
+t
+   Hydro/marine
+a
+w
+a
+   Solar
+g
+G
+  2
+   Wind
+   Bioenergy
+   Geothermal
+  1
+Total
+
+i
+
+ 1 992
+ 2 857
+ 1 846
+  714
+  252
+  45
+  0
+ 4 849
+
+4.6
+
+4.7
+
+  41
+Other Non-RE
+  59
+Solar
+  38
+Renewable share
+  15
+  5
+  1
+  0
+80%
+  100
+
+100%
+
+4.8
+
+2017-22
+-  3
++  39
++  6
++  357
++  92
++  73
+0
++  18
+
+l
+
+59%
+
+2021-22
+)
+%
+(
+0.0
+60%
+e
+r
+a
++ 5.0
+h
+s
+e
++ 2.6
+b
+a
+w
+40%
++ 14.4
+e
+n
+e
+0.0
+R
+0.0
+0.0
++ 2.9
+
+20%
+
+  0
+
+0%
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019 2020 2021
+
+2022
+
+Net capacity change in 2022 (MW)
+
+Non-renewable
+
+Hydro and marine
+
+  0
+
++  47
+
+2%
+
+9%
+
+25%
+
+Hydro/marine
+
+Solar
+
+Wind
+
+65%
+
+Bioenergy
+
+Geothermal
+
+Net capacity change (GW)
+
+Fossil fuels
+
+Renewable
+
+0.3
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.1
+
+0.0
+
+0.0
+
+0.0
+
+- 0.2
+
+0.1
+
+0.0
+
+ 0
+
+ 0
+
+ 0
+
+ 0
+
+- 0
+
+- 0
+
+- 0
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Solar
+
+Wind
+
+Capacity utilisation in 2021 (%)
+
++  90
+
+Bioenergy
+
+Geothermal
+
+  0
+
+  0
+
+  0
+
+Fossil fuels
+
+Nuclear
+
+Hydro/Marine
+
+Solar
+
+Wind
+
+Bioenergy
+
+Geothermal
+
+45%
+
+46%
+
+34%
+
+41%
+
+12%
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+ 
+ 
+ 
+ 
+ELECTRICITY GENERATION
+
+Generation in 2021
+Non-renewable
+Renewable
+   Hydro and marine
+   Solar
+   Wind
+   Bioenergy
+   Geothermal
+Total
+
+GWh
+ 8 190
+ 8 580
+ 7 215
+  557
+  645
+  163
+  0
+ 16 770
+
+%
+49
+51
+43
+3
+4
+1
+0
+100
+
+Per capita electricity generation (kWh)
+
+Total
+
+Renewable
+
+1 000
+
+ 800
+
+ 600
+
+ 400
+
+ 200
+
+ 0
+
+Electricity generation trend
+
+Fossil fuels
+
+Hydro/marine
+
+Bioenergy
+
+Nuclear
+
+Wind
+
+Other Non-RE
+
+Solar
+
+Geothermal
+
+Renewable share
+
+14
+
+15
+
+)
+h
+W
+G
+(
+
+s
+r
+u
+o
+h
+-
+t
+t
+a
+w
+a
+g
+G
+
+i
+
+  18
+
+  16
+
+  14
+
+  12
+
+  10
+
+  8
+
+  6
+
+  4
+
+  2
+
+  0
+
+15
+
+16
+
+16
+
+17
+
+100%
+
+51%
+
+)
+%
+(
+e
+r
+a
+h
+s
+
+l
+
+e
+b
+a
+w
+e
+n
+e
+R
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Energy Performance Standards of Appliances (Ceiling Fans) Regulations No. 1 of 2012
+
+2013
+
+LATEST POLICIES, PROGRAMMES AND LEGISLATION
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Energy-related CO2 emissions by sector
+
+Elec. & heat generation CO2 emissions in
+
+Elec. & heat
+
+Other Industrial
+
+Transport
+
+Other
+
+Buildings
+
+ENERGY AND EMISSIONS
+
+s
+n
+o
+i
+s
+s
+i
+m
+E
+2
+
+O
+C
+t
+
+M
+
+ 30
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+0.0
+
+ 25
+
+ 20
+
+ 15
+
+ 10
+
+ 5
+
+s
+n
+o
+i
+s
+s
+i
+m
+E
+2
+
+O
+C
+t
+
+M
+
+0.0
+
+29%
+
+0%
+
+71%
+
+Coal + others
+
+Gas
+
+Oil
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Avoided emissions from renewable elec. & heat
+
+CO2 emission factor for elec. & heat generation 
+
+Emitted CO2
+
+RE Avoided CO2
+
+LKA
+
+Asia
+
+World
+
+4 000
+
+3 500
+
+3 000
+
+ENERGY AND EMISSIONS
+
+h
+W
+G
+/
+2
+
+2 500
+
+2 000
+
+O
+C
+t
+
+1 500
+
+1 000
+
+612
+
+ 500
+
+0.0
+
+571
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Avoided emissions based on fossil fuel mix used for power
+
+Calculated by dividing power sector emissions by elec. + heat gen.
+
++3% 10Mt CO2 
+ 
+ 
+ 
+ 
+ 
+RENEWABLE RESOURCE POTENTIAL
+
+Distribution of solar potential
+
+World
+
+      Sri Lanka
+
+Distribution of wind potential
+
+      World
+
+            Sri Lanka
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+a
+e
+r
+a
+d
+n
+a
+
+l
+
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+a
+e
+r
+a
+d
+n
+a
+
+l
+
+f
+o
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+100%
+
+80%
+
+60%
+
+40%
+
+20%
+
+0%
+
+<1.2         1.2 - 1.4     1.4 - 1.6     1.6 - 1.8      1.8 - 1.9     1.9 - 2.0      >2.0
+
+            <260  
+
+260-420  420-560    560-670   670-820   820-1060   >1060
+
+       Annual generation per unit of installed PV capacity (MWh/kWp)
+
+Wind power density at 100m height (W/m2)
+
+Biomass potential: net primary production
+
+Indicators of renewable resource potential
+
+5
+
+6
+
+4
+
+7
+
+3
+
+2
+
+1
+
+8
+
+9
+
+200
+
+10
+
+3.5
+tC/ha/yr
+
+0
+
+11
+
+= Global average of 3-4 tC/ha/yr
+
+Solar PV: Solar resource potential has been divided into seven classes, 
+each representing a range of annual PV output per unit of capacity 
+(kWh/kWp/yr). The bar chart shows the proportion of a country's land area 
+in each of these classes and the global distribution of land area across the 
+classes (for comparison).
+
+Onshore wind: Potential wind power density (W/m2) is shown in the seven 
+classes used by NREL, measured at a height of 100m. The bar chart shows 
+the distribution of the country's land area in each of these classes 
+compared to the global distribution of wind resources. Areas in the third 
+class or above are considered to be a good wind resource.
+
+Biomass: Net primary production (NPP) is the amount of carbon fixed by 
+plants and accumulated as biomass each year. It is a basic measure of 
+biomass productivity. The chart shows the average NPP in the country 
+(tC/ha/yr), compared to the global average NPP of 3-4 tonnes of carbon 
+
+Sources: IRENA statistics, plus data from the following sources: UN SDG Database 
+(original sources: WHO; World Bank; IEA; IRENA; and UNSD); UN World Population 
+Prospects; UNSD Energy Balances; UN COMTRADE; World Bank World Development 
+Indicators; EDGAR; REN21 Global Status Report; IEA -IRENA Joint Policies and Measures 
+Database; IRENA Global Atlas; and World Bank Global Solar Atlas and Global Wind 
+Atlas.
+
+Additional notes: Capacity per capita and public investments SDGs only apply to 
+developing areas. Energy self-sufficiency has been defined as total primary energy 
+production divided by total primary energy supply. Energy trade includes all 
+commodities in Chapter 27 of the Harmonised System (HS). Capacity utilisation is 
+calculated as annual generation divided by year-end capacity x 8,760h/year. Avoided 
+emissions from renewable power is calculated as renewable generation divided by fossil 
+fuel generation multiplied by reported emissions from the power sector. This assumes 
+that, if renewable power did not exist, fossil fuels would be used in its place to generate 
+the same amount of power and using the same mix of fossil fuels. In countries and years 
+where no fossil fuel generation occurs, an average fossil fuel emission factor has been 
+used to calculate the avoided emissions.
+
+These profiles have been produced to provide an overview of developments in 
+renewable energy in different countries and areas. The IRENA statistics team would 
+welcome comments and feedback on its structure and content, which can be sent to 
+statistics@irena.org. 
+
+Last updated on: 8th August, 2023
+
+IRENA Headquarters
+Masdar City
+P.O. Box 236, Abu Dhabi
+United Arab Emirates
+www.irena.org
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                             
+
